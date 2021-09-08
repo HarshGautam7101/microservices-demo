@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="5.0130" tests="3" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-09-08T09:42:47" tests="0" file="cypress/integration/testcases_for_cart.spec.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="My Integration tests" timestamp="2021-09-08T09:42:47" tests="3" time="5.0130" failures="0">
+    <testcase name="My Integration tests We have correct page title" time="1.4520" classname="We have correct page title">
+    </testcase>
+    <testcase name="My Integration tests it clicks on colourful category" time="0.7820" classname="it clicks on colourful category">
+    </testcase>
+    <testcase name="My Integration tests Putting the products into cart and checking cart values" time="2.7790" classname="Putting the products into cart and checking cart values">
+    </testcase>
+  </testsuite>
+</testsuites>
