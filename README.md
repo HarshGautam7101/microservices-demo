@@ -10,7 +10,7 @@ You can read more about the [application design](./internal-docs/design.md).
 
 ## Deployment Platforms
 
-The [deploy folder](./deploy/) contains scripts and instructions to provision the application onto your favourite platform. 
+The [deploy folder](./deploy/)  contains scripts and instructions to provision the application onto your favourite platform. 
 
 Please let us know if there is a platform that you would like to see supported.
 
